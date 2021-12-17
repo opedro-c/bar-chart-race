@@ -1,3 +1,5 @@
+![GitHub top language](https://img.shields.io/github/languages/top/opedro-c/bar-chart-race?color=red&label=%20&logo=c%2B%2B&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/opedro-c/bar-chart-race?label=%20&style=for-the-badge)
 # Bar Chart Race
 
 Esse programa tem como objetivo simular uma disputa de corrida entre barras de 
